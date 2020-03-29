@@ -11,8 +11,8 @@ Deze week moest er een begin gemaakt worden aan het project, daarvoor was een sk
 
 ### Welke keuzemogelijkheden heb je?
 
-- Is het design haalbaar?
-- Willen we extreme programming gebruiken
+- Welk gemaakt design is haalbaar?
+- Welke software development methode willen we gebruiken?
 
 ### Welke keuze heb je gemaakt?
 
@@ -39,7 +39,7 @@ De drie scenes waarmee artiesten, stages en events toegevoegd, verwijderd en aan
 
 ### Welke keuzemogelijkheden heb je?
 
-- De stijl van de scene moest beslist worden.
+- Welke stijl wilden we nemen voor de scenes?
 - Wat er gebeurt als je twee artiesten of stages met de zelfde naam worden toegevoegd.
 - Welke functies moeten de scenes hebben.
 
@@ -82,5 +82,83 @@ Ik heb geprobeerd de stijl van de event info scene zo veel mogelijk hetzelfde te
 
 Ik daarvoor gekozen zodat er geen contrast in stijl zou zijn binnen het project.
 
-### 
+--------------------------------------------------------------------------------------------------------------------------------------
+ 
+ ## Week 5
+### Mijn bijdrage aan de proftaak:
 
+### Wat is de situatie (context)?
+
+
+### Welke keuzemogelijkheden heb je?
+
+
+### Welke keuze heb je gemaakt?
+
+
+### Waarom heb je deze keuze gemaakt?
+
+--------------------------------------------------------------------------------------------------------------------------------------
+ 
+ ## Week 6
+### Mijn bijdrage aan de proftaak:
+
+### Wat is de situatie (context)?
+
+
+### Welke keuzemogelijkheden heb je?
+
+
+### Welke keuze heb je gemaakt?
+
+
+### Waarom heb je deze keuze gemaakt?
+
+--------------------------------------------------------------------------------------------------------------------------------------
+ 
+ ## Week 7
+### Mijn bijdrage aan de proftaak:
+
+### Wat is de situatie (context)?
+
+
+### Welke keuzemogelijkheden heb je?
+
+
+### Welke keuze heb je gemaakt?
+
+
+### Waarom heb je deze keuze gemaakt?
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+ 
+ ## Week 8
+### Mijn bijdrage aan de proftaak:
+
+### Wat is de situatie (context)?
+
+
+### Welke keuzemogelijkheden heb je?
+
+
+### Welke keuze heb je gemaakt?
+
+
+### Waarom heb je deze keuze gemaakt?
+
+--------------------------------------------------------------------------------------------------------------------------------------
+ 
+ ## Week 9
+### Mijn bijdrage aan de proftaak:
+
+### Wat is de situatie (context)?
+
+
+### Welke keuzemogelijkheden heb je?
+
+
+### Welke keuze heb je gemaakt?
+
+
+### Waarom heb je deze keuze gemaakt?
