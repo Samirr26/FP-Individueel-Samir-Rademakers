@@ -86,61 +86,70 @@ Ik daarvoor gekozen zodat er geen contrast in stijl zou zijn binnen het project.
  
  ## Week 5
 ### Mijn bijdrage aan de proftaak:
+In deze week moest er begonnen worden aan de simulatie. De simulatie moest een hele dag van het festival simuleren aan de hand van de, door de gebruiker ingevulde, festival agenda. Voor de simulatie moest een map gemaakt worden en ingeladen worden in de code. Ik heb in deze week een framework gemaakt voor de simulatie en geholpen bij het maken en het inladen van de map.
 
 ### Wat is de situatie (context)?
-
+De map voor de simulatie moet gemaakt en ingeladen worden voor het begin van de simulatie.
 
 ### Welke keuzemogelijkheden heb je?
-
+- Hoe willen we de map eruit laten zien?
 
 ### Welke keuze heb je gemaakt?
+- We hebben uiteindelijk gekozen voor een strand thema map.
+![](https://i.gyazo.com/35a2d7e73b0de1528e41b10f1c4e4761.png)
 
 
 ### Waarom heb je deze keuze gemaakt?
+We vonden dit thema origineel en passend bij de rest van ons project thema.
 
 --------------------------------------------------------------------------------------------------------------------------------------
  
  ## Week 6
 ### Mijn bijdrage aan de proftaak:
+In deze week moest er toch nog verder gewerkt worden aan het inladen van de map aangezien dat nog niet helemaal goed gelukt was en deze week gingen we visitors inladen boven op de map. Ik heb, nadat de map goed gelukt was in te laden, de visitors ook binnen het framework van de simulatie boven op de map ingeladen.
 
 ### Wat is de situatie (context)?
-
+De visitors en de map moesten ingeladen worden binnen de simulatie framework.
 
 ### Welke keuzemogelijkheden heb je?
-
+Deze week waren er niet echt keuzemogelijkheden.
 
 ### Welke keuze heb je gemaakt?
-
+-
 
 ### Waarom heb je deze keuze gemaakt?
+-
 
 --------------------------------------------------------------------------------------------------------------------------------------
  
  ## Week 7
 ### Mijn bijdrage aan de proftaak:
+Deze week moest er voor gezorgt worden dat de visitors naar de juiste podia lopen op de juiste tijden. Hiervoor moesten 2 dingen gemaakt worden, een visitor controller die de visitors rond stuurt en een pathfinding methode die ervoor zorgt dat de visitors de kortste route zoeken naar elk podia en niet buiten het pad gaan lopen. Ook moet er een scrollbar gemaakt worden waarmee je de tijd van de simulatie kan zien en kan doorspoelen en terugspoelen. Ik heb deze week de visitor controller gemaakt en de scrollbar.
+![](https://i.gyazo.com/6ccb8fc4b9d35e4a3bfbd77f52ee9028.png)
+
 
 ### Wat is de situatie (context)?
-
+Binnen de simulatie moet nu de functie gemaakt worden dat de visitors de juiste richting op lopen naar de juiste podia op de juiste tijden. Ook moet er een scrollbar voor de simulatie gemaakt worden.
 
 ### Welke keuzemogelijkheden heb je?
-
+- Welke pathfinding methode willen we gebruiken?
 
 ### Welke keuze heb je gemaakt?
-
+- We hebben gekozen voor BFS pathfinding.
 
 ### Waarom heb je deze keuze gemaakt?
-
+We hebben gekozen voor BFS omdat die het best werkt binnnen de simulatie.
 
 --------------------------------------------------------------------------------------------------------------------------------------
  
  ## Week 8
 ### Mijn bijdrage aan de proftaak:
-
+In de week moest de visitor controller en de pathfinding methode met elkaar samen gaan werken. Aangezien deze door 2 verschillende personen gemaakt was dit nog best wel wat werk. Ik heb meegeholpen aan het samen voegen van deze twee dingen.
 ### Wat is de situatie (context)?
-
+In deze week moest er voor gezorgt worden dat de pathfinding en de visitor controller compleet samen werken.
 
 ### Welke keuzemogelijkheden heb je?
-
+- Hoe willen de pathfinding methode en de visitor controller samen laten werken.
 
 ### Welke keuze heb je gemaakt?
 
