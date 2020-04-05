@@ -127,7 +127,6 @@ Deze week waren er niet echt keuzemogelijkheden.
 Deze week moest er voor gezorgt worden dat de visitors naar de juiste podia lopen op de juiste tijden. Hiervoor moesten 2 dingen gemaakt worden, een visitor controller die de visitors rond stuurt en een pathfinding methode die ervoor zorgt dat de visitors de kortste route zoeken naar elk podia en niet buiten het pad gaan lopen. Ook moet er een scrollbar gemaakt worden waarmee je de tijd van de simulatie kan zien en kan doorspoelen en terugspoelen. Ik heb deze week de visitor controller gemaakt en de scrollbar.
 ![](https://i.gyazo.com/6ccb8fc4b9d35e4a3bfbd77f52ee9028.png)
 
-
 ### Wat is de situatie (context)?
 Binnen de simulatie moet nu de functie gemaakt worden dat de visitors de juiste richting op lopen naar de juiste podia op de juiste tijden. Ook moet er een scrollbar voor de simulatie gemaakt worden.
 
@@ -142,32 +141,30 @@ We hebben gekozen voor BFS omdat die het best werkt binnnen de simulatie.
 
 --------------------------------------------------------------------------------------------------------------------------------------
  
- ## Week 8
+ ## Week 8 & 9
 ### Mijn bijdrage aan de proftaak:
-In de week moest de visitor controller en de pathfinding methode met elkaar samen gaan werken. Aangezien deze door 2 verschillende personen gemaakt was dit nog best wel wat werk. Ik heb meegeholpen aan het samen voegen van deze twee dingen.
+In de week moest de visitor controller en de pathfinding methode met elkaar samen gaan werken. Aangezien deze door 2 verschillende personen gemaakt was dit nog best wel wat werk. Ik heb meegeholpen aan het samen voegen van deze twee dingen. Ook was de simulatie eerst in een ander project gemaakt dus moest dat ook in het hoofdproject geimporteerd worden. Verder heb ik ook niet veel getest en ge-debugged.
+
 ### Wat is de situatie (context)?
-In deze week moest er voor gezorgt worden dat de pathfinding en de visitor controller compleet samen werken.
+In deze week moest er voor gezorgt worden dat de pathfinding en de visitor controller compleet samen werken. Ook moest er voor gezorgt worden dat het product af gemaakt word deze week en een presentatie voor over het project moest gemaakt worden.
 
 ### Welke keuzemogelijkheden heb je?
 - Hoe willen de pathfinding methode en de visitor controller samen laten werken.
 
 ### Welke keuze heb je gemaakt?
-
+De visitor controller bepaalt om het uur hoeveelt evenementen bezig zijn en welke populariteit ze hebben. Dan maakt de controller een verdelingen van de 60 npc's over de evenementen aan de hand van de populariteit van elk evenement met behulp van een formule. Daarna roept de npc controller per npc een methode aan van een routefollower klasse die een pad voor de npc set met behulp van pathfinding.
 
 ### Waarom heb je deze keuze gemaakt?
+Ik heb deze keuze gemaakt omdat dit mij de meest logische en makkelijkste manier leek om het samen te laten werken.
 
 --------------------------------------------------------------------------------------------------------------------------------------
- 
- ## Week 9
-### Mijn bijdrage aan de proftaak:
 
-### Wat is de situatie (context)?
+### Mijn reflectie en onderbouwing op de stelling: "In het bedrijfsleven wordt steeds meer in software gesimuleerd".
+Ik heb nu zelf voor het eerst een simulatie gebouwd voor een realistische opdracht vanuit een bedrijf en ik begrijp goed waarom er in het bedrijfsleven steeds meer software simuleerd wordt. Een simulatie geeft een veel realistischer en beter beeld van een bepaalde situatie. Ook denk ik dat er steeds meer gesimuleerd word omdat technologie steeds verder ontwikkelt en er dus steeds betere en mooiere manieren komen om betere en realistischere simulaties te maken. Simulaties kunnen op een heel veel vlakken in het bedrijfsleven helpen met allerlei soorten taken, bijvoorbeeld bij het helpen van hulpdiensten op festivals. Dus in het algemeen vind ik dat het zeer gunstig is dat er steeds meer gesimuleerd word in het bedrijfsleven.
 
+--------------------------------------------------------------------------------------------------------------------------------------
 
-### Welke keuzemogelijkheden heb je?
-
-
-### Welke keuze heb je gemaakt?
-
-
-### Waarom heb je deze keuze gemaakt?
+### Drie applicaties die gebruik maken van het JSON formaat.
+1. Steam ( https://store.steampowered.com )
+2. Discord ( https://discordapp.com )
+3. IntelliJ ( https://www.jetbrains.com/idea )
