@@ -144,7 +144,7 @@ We hebben gekozen voor BFS omdat die het best werkt binnnen de simulatie.
  
  ## Week 8 & 9
 ### Mijn bijdrage aan de proftaak:
-In de week moest de visitor controller en de pathfinding methode met elkaar samen gaan werken. Aangezien deze door 2 verschillende personen gemaakt was dit nog best wel wat werk. Ik heb meegeholpen aan het samen voegen van deze twee dingen. Ook was de simulatie eerst in een ander project gemaakt dus moest dat ook in het hoofdproject geimporteerd worden. Verder heb ik ook niet veel getest en ge-debugged.
+In de week moest de visitor controller en de pathfinding methode met elkaar samen gaan werken. Aangezien deze door 2 verschillende personen gemaakt was dit nog best wel wat werk. Ik heb meegeholpen aan het samen voegen van deze twee dingen. Ook was de simulatie eerst in een ander project gemaakt dus moest dat ook in het hoofdproject geimporteerd worden. Er moest ook een camera controle systeem gemaakt worden waarmee je kan in en uitzoomen en over de map kan scrollen. Ik heb dit camera systeem gemaakt.  Verder heb ik ook veel getest en ge-debugged. Als laatst heb ik ook nog een eigen deel voor de presentatie over het project gemaakt.
 
 ### Wat is de situatie (context)?
 In deze week moest er voor gezorgt worden dat de pathfinding en de visitor controller compleet samen werken. Ook moest er voor gezorgt worden dat het product af gemaakt word deze week en een presentatie voor over het project moest gemaakt worden.
