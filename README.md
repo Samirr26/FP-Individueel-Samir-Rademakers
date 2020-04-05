@@ -107,18 +107,19 @@ We vonden dit thema origineel en passend bij de rest van ons project thema.
  ## Week 6
 ### Mijn bijdrage aan de proftaak:
 In deze week moest er toch nog verder gewerkt worden aan het inladen van de map aangezien dat nog niet helemaal goed gelukt was en deze week gingen we visitors inladen boven op de map. Ik heb, nadat de map goed gelukt was in te laden, de visitors ook binnen het framework van de simulatie boven op de map ingeladen.
+![](https://i.gyazo.com/29d780b891e95282576a58d5d313c5f0.png)
 
 ### Wat is de situatie (context)?
 De visitors en de map moesten ingeladen worden binnen de simulatie framework.
 
 ### Welke keuzemogelijkheden heb je?
-Deze week waren er niet echt keuzemogelijkheden.
+- De keuze hoe we de visitors er uit willen laten zien.
 
 ### Welke keuze heb je gemaakt?
--
+We hebben gekozen om alle visitors een willekeurige outfit texture te geven uit een lijst van textures die we hebben opgesteld.
 
 ### Waarom heb je deze keuze gemaakt?
--
+We hebben hiervoor gekozen omdat het er beter uitziet.
 
 --------------------------------------------------------------------------------------------------------------------------------------
  
