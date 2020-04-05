@@ -3,7 +3,7 @@
 ## Week 2
 ### Mijn bijdrage aan de proftaak:
 
-Deze week heb ik gewerkt aan de GUI voor de festival planner. Vooral aan de main view van het agenda overzicht. Deze week moest er een goed begin gemaakt worden aan het de GUI wat zeker is gelukt. Ik heb gedeeltelijk een skelet gemaakt zodat iedereen makkelijk kan beginnen met coderen en alles op mekaar aansluit. In ons project kun je horizontaal scrollen over de timeline van de agenda. Een van de dingen die ik deze week heb gedaan was de scroll functie maken. Dit heb ik gemaakt met gebruik van coordinaten. Als je nu op een van de pijltjes naar rechts of links drukt kun je scrollen over de timeline. Hiernaast heb ik ook nog gewerkt aan documentatie. Dingen zoals het klassendiagram en het plan van aanpak moesten allemaal aangepast en bijgewerkt worden waar ik dus ook mee geholpen. Verder moesten er ook nog comments geplaatst worden in de code wat ik ook gedeeltelijk heb gedaan.
+Deze week heb ik gewerkt aan de GUI voor de festival planner. Vooral aan de main view van het agenda overzicht. Deze week moest er een goed begin gemaakt worden aan de GUI wat zeker is gelukt. Ik heb gedeeltelijk een skelet gemaakt zodat iedereen makkelijk kan beginnen met coderen en alles op mekaar aansluit. In ons project kun je horizontaal scrollen over de timeline van de agenda. Een van de dingen die ik deze week heb gedaan was de scroll functie maken. Dit heb ik gemaakt met gebruik van coordinaten. Als je nu op een van de pijltjes naar rechts of links drukt kun je scrollen over de timeline. Hiernaast heb ik ook nog gewerkt aan documentatie. Dingen zoals het klassendiagram en het plan van aanpak moesten allemaal aangepast en bijgewerkt worden waar ik dus ook mee geholpen. Verder moesten er ook nog comments geplaatst worden in de code wat ik ook gedeeltelijk heb gedaan.
 
 ### Wat is de situatie (context)?
 
@@ -86,7 +86,7 @@ Ik daarvoor gekozen zodat er geen contrast in stijl zou zijn binnen het project.
  
  ## Week 5
 ### Mijn bijdrage aan de proftaak:
-In deze week moest er begonnen worden aan de simulatie. De simulatie moest een hele dag van het festival simuleren aan de hand van de, door de gebruiker ingevulde, festival agenda. Voor de simulatie moest een map gemaakt worden en ingeladen worden in de code. Ik heb in deze week een framework gemaakt voor de simulatie en geholpen bij het maken en het inladen van de map.
+In deze week moest er begonnen worden aan de simulatie. De simulatie moest een hele dag van het festival simuleren aan de hand van de, door de gebruiker ingevulde, festival agenda. Voor de simulatie moest een map gemaakt worden en ingeladen worden in de code. Ik heb in deze week een framework gemaakt voor de simulatie en geholpen bij het maken en het inladen van de map. De map is een JSON format en word ingeladen met behulp van een JSON library.
 
 ### Wat is de situatie (context)?
 De map voor de simulatie moet gemaakt en ingeladen worden voor het begin van de simulatie.
@@ -100,13 +100,13 @@ De map voor de simulatie moet gemaakt en ingeladen worden voor het begin van de 
 
 
 ### Waarom heb je deze keuze gemaakt?
-We vonden dit thema origineel en passend bij de rest van ons project thema.
+We vonden dit thema origineel en passend bij de rest van ons project.
 
 --------------------------------------------------------------------------------------------------------------------------------------
  
  ## Week 6
 ### Mijn bijdrage aan de proftaak:
-In deze week moest er toch nog verder gewerkt worden aan het inladen van de map aangezien dat nog niet helemaal goed gelukt was en deze week gingen we visitors inladen boven op de map. Ik heb, nadat de map goed gelukt was in te laden, de visitors ook binnen het framework van de simulatie boven op de map ingeladen.
+In deze week moest er toch nog verder gewerkt worden aan het inladen van de map aangezien dat nog niet helemaal goed gelukt was en deze week gingen we visitors inladen boven op de map. Ik heb, nadat de map goed gelukt was in te laden, de visitors ook binnen het framework van de simulatie boven op de map ingeladen. De visitors en de map worden getekend met behulp van javafx.
 ![](https://i.gyazo.com/29d780b891e95282576a58d5d313c5f0.png)
 
 ### Wat is de situatie (context)?
@@ -125,7 +125,7 @@ We hebben hiervoor gekozen omdat het er beter uitziet.
  
  ## Week 7
 ### Mijn bijdrage aan de proftaak:
-Deze week moest er voor gezorgt worden dat de visitors naar de juiste podia lopen op de juiste tijden. Hiervoor moesten 2 dingen gemaakt worden, een visitor controller die de visitors rond stuurt en een pathfinding methode die ervoor zorgt dat de visitors de kortste route zoeken naar elk podia en niet buiten het pad gaan lopen. Ook moet er een scrollbar gemaakt worden waarmee je de tijd van de simulatie kan zien en kan doorspoelen en terugspoelen. Ik heb deze week de visitor controller gemaakt en de scrollbar.
+Deze week moest er voor gezorgd worden dat de visitors naar de juiste podia lopen op de juiste tijden. Hiervoor moesten 2 dingen gemaakt worden, een visitor controller die de visitors rond stuurt en een pathfinding methode die ervoor zorgt dat de visitors de kortste route zoeken naar elk podia en niet buiten het pad gaan lopen. Ook moet er een scrollbar gemaakt worden waarmee je de tijd van de simulatie kan zien en kan doorspoelen en terugspoelen. Ik heb deze week de visitor controller gemaakt en de scrollbar.
 ![](https://i.gyazo.com/6ccb8fc4b9d35e4a3bfbd77f52ee9028.png)
 
 ### Wat is de situatie (context)?
@@ -144,16 +144,18 @@ We hebben gekozen voor BFS omdat die het best werkt binnnen de simulatie.
  
  ## Week 8 & 9
 ### Mijn bijdrage aan de proftaak:
-In de week moest de visitor controller en de pathfinding methode met elkaar samen gaan werken. Aangezien deze door 2 verschillende personen gemaakt was dit nog best wel wat werk. Ik heb meegeholpen aan het samen voegen van deze twee dingen. Ook was de simulatie eerst in een ander project gemaakt dus moest dat ook in het hoofdproject geimporteerd worden. Er moest ook een camera controle systeem gemaakt worden waarmee je kan in en uitzoomen en over de map kan scrollen. Ik heb dit camera systeem gemaakt.  Verder heb ik ook veel getest en ge-debugged. Als laatst heb ik ook nog een eigen deel voor de presentatie over het project gemaakt.
+In de week moest de visitor controller en de pathfinding methode met elkaar samen gaan werken. Aangezien deze door 2 verschillende personen gemaakt was dit nog best wel wat werk. Ik heb meegeholpen aan het samen voegen van deze twee dingen. Ook was de simulatie eerst in een ander project gemaakt dus moest dat ook in het hoofdproject geimporteerd worden. Er moest ook een camera controle systeem gemaakt worden waarmee je kan in en uitzoomen en over de map kan scrollen. Ik heb dit camera systeem gemaakt. Verder heb ik ook veel getest en ge-debugged. Als laatst heb ik ook nog een eigen deel voor de presentatie over het project gemaakt.
+![](https://i.gyazo.com/d472a56ce915f15bdf77dbfb0490d6d3.png)
+
 
 ### Wat is de situatie (context)?
-In deze week moest er voor gezorgt worden dat de pathfinding en de visitor controller compleet samen werken. Ook moest er voor gezorgt worden dat het product af gemaakt word deze week en een presentatie voor over het project moest gemaakt worden.
+In deze week moest er voor gezorgt worden dat de pathfinding en de visitor controller compleet samen werken. Ook moest er voor gezorgt worden dat het product afgemaakt word deze week en een presentatie over het project moest gemaakt worden.
 
 ### Welke keuzemogelijkheden heb je?
 - Hoe willen de pathfinding methode en de visitor controller samen laten werken.
 
 ### Welke keuze heb je gemaakt?
-De visitor controller bepaalt om het uur hoeveelt evenementen bezig zijn en welke populariteit ze hebben. Dan maakt de controller een verdelingen van de 60 npc's over de evenementen aan de hand van de populariteit van elk evenement met behulp van een formule. Daarna roept de npc controller per npc een methode aan van een routefollower klasse die een pad voor de npc set met behulp van pathfinding.
+De visitor controller bepaalt om het uur hoeveelt evenementen bezig zijn en welke populariteit ze hebben. Dan maakt de controller een verdelingen van het aantal npc's over de evenementen aan de hand van de populariteit van elk evenement met behulp van een formule. Daarna roept de npc controller per npc een methode aan van een routefollower klasse die een pad voor de npc 'set' met behulp van pathfinding.
 
 ### Waarom heb je deze keuze gemaakt?
 Ik heb deze keuze gemaakt omdat dit mij de meest logische en makkelijkste manier leek om het samen te laten werken.
@@ -161,7 +163,7 @@ Ik heb deze keuze gemaakt omdat dit mij de meest logische en makkelijkste manier
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ### Mijn reflectie en onderbouwing op de stelling: "In het bedrijfsleven wordt steeds meer in software gesimuleerd".
-Ik heb nu zelf voor het eerst een simulatie gebouwd voor een realistische opdracht vanuit een bedrijf en ik begrijp goed waarom er in het bedrijfsleven steeds meer software simuleerd wordt. Een simulatie geeft een veel realistischer en beter beeld van een bepaalde situatie. Ook denk ik dat er steeds meer gesimuleerd word omdat technologie steeds verder ontwikkelt en er dus steeds betere en mooiere manieren komen om betere en realistischere simulaties te maken. Simulaties kunnen op een heel veel vlakken in het bedrijfsleven helpen met allerlei soorten taken, bijvoorbeeld bij het helpen van hulpdiensten op festivals. Dus in het algemeen vind ik dat het zeer gunstig is dat er steeds meer gesimuleerd word in het bedrijfsleven.
+Ik heb nu zelf voor het eerst een simulatie gebouwd voor een realistische opdracht vanuit het bedrijfsleven en ik begrijp goed waarom er in het bedrijfsleven steeds meer software simuleerd wordt. Een simulatie geeft een veel realistischer en beter beeld van een bepaalde situatie. Ook denk ik dat er steeds meer gesimuleerd word omdat technologie steeds verder ontwikkelt en er dus steeds betere en mooiere manieren komen om betere en realistischere simulaties te maken. Simulaties kunnen op een heel veel vlakken in het bedrijfsleven helpen met allerlei soorten taken, bijvoorbeeld bij het helpen van hulpdiensten op festivals. Dus in het algemeen vind ik dat het zeer gunstig is dat er steeds meer gesimuleerd word in het bedrijfsleven.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
